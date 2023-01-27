@@ -1,0 +1,39 @@
+.bar{
+    background-color: black;
+    border-radius: 23px;
+    margin: 23px;
+}
+.bar li{
+    list-style: none;
+    float: left;
+    padding: 24px;
+    
+}
+.bar a{
+    text-decoration: none;
+    color: white;
+    margin-left: 43px;
+   
+    
+}
+.bar ul{
+    overflow: auto;
+}
+
+
+a:hover{
+    color : blue;
+} 
+
+.bar input{
+    float: right;
+    margin: 26px;
+    border: 2px solid black;
+} 
+#programmer {
+    width: 630px;
+    margin-left: 222px;
+}
+#p1{
+    font-weight: 600;
+}
